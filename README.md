@@ -23,7 +23,7 @@ Pursuing B Tech in CSE (Cybersecurity)
     <a href="mailto:chakradharkolipaka@gmail.com" style="color:#f16e6e;">chakradharkolipaka@gmail.com</a>
   </li>
   <li>📄 Know about my experiences&nbsp;
-    <a href="[https://drive.google.com/file/d/1yfxAW14L2ohw4HSHFoEN07_pJL0QocM3/view?usp=drive_link](https://drive.google.com/file/d/15idhhgy3aS-Mw_PThmRmaddFue8LeSdS/view?usp=drive_link)" target="_blank" style="color:#008ca0;">My Resume</a>
+    <a href="https://drive.google.com/file/d/15idhhgy3aS-Mw_PThmRmaddFue8LeSdS/view?usp=drive_link" target="_blank" style="color:#008ca0;">My Resume</a>
   </li>
 </ul>
 </div>
