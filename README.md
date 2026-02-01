@@ -14,11 +14,21 @@
 Aspiring Blockchain Developer &nbsp;|&nbsp; MERN / Full-stack / Web3 Developer <br>
 Pursuing B Tech in CSE (Cybersecurity)
 </h3>
+<br>
+<h4>
+  <center>
+    <b>
+    Open for Blockchain Developer Intern Role ,Fresher roles ,and 
+    Can reach out to me if you're building web3 based projects and needs contribution 
+    </b>
+    
+  </center>
+</h4>
 
 <div style="max-width:580px; margin:0 auto; text-align:left; background:#f4f8fc88; border-radius:14px; padding:18px 20px; box-shadow:0 1px 7px #e5bafc44; margin-bottom:16px;">
 <ul style="list-style:square; color:#3b3564; font-size:1.03em;">
-  <li>🔭 I’m currently working on <a href="https://github.com/Chakradharkolipaka/HealthChain-Patient-Controlled-Medical-Records" target="_blank" style="color:#1c92d2;font-weight:600;">HealthChain-Patient-Controlled-Medical-Records</a></li>
-  <li>🌱 I’m currently learning <b>Blockchain Technology, currently Foundry</b></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/Chakradharkolipaka/Defi_StableCoin" target="_blank" style="color:#1c92d2;font-weight:600;">HealthChain-Patient-Controlled-Medical-Records</a></li>
+  <li>🌱 I’m currently learning <b>DeFi , web3 interaction and connectivity with applciation </b></li>
   <li>📫 How to reach me&nbsp;
     <a href="mailto:chakradharkolipaka@gmail.com" style="color:#f16e6e;">chakradharkolipaka@gmail.com</a>
   </li>
@@ -108,11 +118,6 @@ Pursuing B Tech in CSE (Cybersecurity)
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin:9px;"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin:9px;"/></a>
 </div>
-<br>
-<!-- Top languages box -->
-<p style="margin:32px auto 10px auto;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chakradharkolipaka&show_icons=true&locale=en&layout=compact" alt="chakradharkolipaka" style="margin:0 auto;"/>
-</p>
 </div>
 
 <!--
