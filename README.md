@@ -10,20 +10,21 @@
 ">
 
 <h1 style="color:#2d3169; margin-top:0;">Hello 👋, I'm Chakradhar Kolipaka</h1>
-<h3 style="color:#884fa7; margin-bottom:16px;">Former Intern @BlockseBlock, @IDS ,@Plasmid <br>
+<h2 style="color:#884fa7; margin-bottom:16px;">Former Intern @BlockseBlock, @IDS ,@Plasmid <br>
 Aspiring Blockchain Developer &nbsp;|&nbsp; MERN / Full-stack / Web3 Developer <br>
 Pursuing B Tech in CSE (Cybersecurity)
-</h3>
+</h2>
 <br>
-<h4>
+<h3>
   <center>
     <b>
-    Open for Blockchain Developer Intern Role ,Fresher roles ,and 
+    Open for Blockchain Developer Intern Role ,Fresher roles ,and <br> 
     Can reach out to me if you're building web3 based projects and needs contribution 
     </b>
     
   </center>
-</h4>
+</h3>
+<br>
 
 <div style="max-width:580px; margin:0 auto; text-align:left; background:#f4f8fc88; border-radius:14px; padding:18px 20px; box-shadow:0 1px 7px #e5bafc44; margin-bottom:16px;">
 <ul style="list-style:square; color:#3b3564; font-size:1.03em;">
