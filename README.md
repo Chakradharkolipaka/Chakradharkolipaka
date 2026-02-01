@@ -28,7 +28,7 @@ Pursuing B Tech in CSE (Cybersecurity)
 
 <div style="max-width:580px; margin:0 auto; text-align:left; background:#f4f8fc88; border-radius:14px; padding:18px 20px; box-shadow:0 1px 7px #e5bafc44; margin-bottom:16px;">
 <ul style="list-style:square; color:#3b3564; font-size:1.03em;">
-  <li>🔭 I’m currently working on <a href="https://github.com/Chakradharkolipaka/Defi_StableCoin" target="_blank" style="color:#1c92d2;font-weight:600;">HealthChain-Patient-Controlled-Medical-Records</a></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/Chakradharkolipaka/Defi_StableCoin" target="_blank" style="color:#1c92d2;font-weight:600;">StableCoin DeFi project</a></li>
   <li>🌱 I’m currently learning <b>DeFi , web3 interaction and connectivity with applciation </b></li>
   <li>📫 How to reach me&nbsp;
     <a href="mailto:chakradharkolipaka@gmail.com" style="color:#f16e6e;">chakradharkolipaka@gmail.com</a>
