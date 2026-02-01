@@ -10,7 +10,7 @@
 ">
 
 <h1 style="color:#2d3169; margin-top:0;">Hello 👋, I'm Chakradhar Kolipaka</h1>
-<h3 style="color:#884fa7; margin-bottom:16px;">Former Intern @BlockseBlock &nbsp;,&nbsp;  @IDS|&nbsp; Intern @Plasmid <br>
+<h3 style="color:#884fa7; margin-bottom:16px;">Former Intern @BlockseBlock, @IDS ,@Plasmid <br>
 Aspiring Blockchain Developer &nbsp;|&nbsp; MERN / Full-stack / Web3 Developer <br>
 Pursuing B Tech in CSE (Cybersecurity)
 </h3>
