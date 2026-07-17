@@ -1,126 +1,116 @@
-<!-- Colorful Profile README for Chakradhar Kolipaka -->
+<div align="center">
 
-<!-- Stylish background and container using HTML/CSS (works in GitHub README) -->
-<div align="center" style="
-  background: linear-gradient(120deg, #f7fafc 0%, #e3f0ff 60%, #f8ecf5 100%);
-  padding: 32px 16px 32px 16px;
-  border-radius: 22px;
-  margin: 0 0 32px 0;
-  box-shadow: 0 4px 22px #7fa6f333;
-">
+# Hi, I'm Chakradhar Kolipaka 👋
 
-<h1 style="color:#2d3169; margin-top:0;">Hello 👋, I'm Chakradhar Kolipaka</h1>
-<h2 style="color:#884fa7; margin-bottom:16px;">Former Intern @BlockseBlock, @IDS ,@Plasmid <br>
-Aspiring Blockchain Developer &nbsp;|&nbsp; MERN / Full-stack / Web3 Developer <br>
-Pursuing B Tech in CSE (Cybersecurity)
-</h2>
-<br>
-<h3>
-  <center>
-    <b>
-    Open for Blockchain Developer Intern Role ,Fresher roles ,and <br> 
-    Can reach out to me if you're building web3 based projects and needs contribution 
-    </b>
-    
-  </center>
-</h3>
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Blockchain+Developer;Solidity+%7C+Foundry+%7C+ethers.js;Shipping+dApps+across+11%2B+networks;Open+to+Blockchain+Intern+%2F+Fresher+roles)](https://git.io/typing-svg)
 
-<div style="max-width:580px; margin:0 auto; text-align:left; background:#f4f8fc88; border-radius:14px; padding:18px 20px; box-shadow:0 1px 7px #e5bafc44; margin-bottom:16px;">
-<ul style="list-style:square; color:#3b3564; font-size:1.03em;">
-  <li>🔭 I’m currently working on <a href="https://github.com/Chakradharkolipaka/Defi_StableCoin" target="_blank" style="color:#1c92d2;font-weight:600;">StableCoin DeFi project</a></li>
-  <li>🌱 I’m currently learning <b>DeFi , web3 interaction and connectivity with applciation </b></li>
-  <li>📫 How to reach me&nbsp;
-    <a href="mailto:chakradharkolipaka@gmail.com" style="color:#f16e6e;">chakradharkolipaka@gmail.com</a>
-  </li>
-  <li>📄 Know about my experiences&nbsp;
-    <a href="https://drive.google.com/file/d/1IbQMMpaKOMdAhc9v4MNsA2tKYX3vogX6/view?usp=drive_link" target="_blank" style="color:#008ca0;">My Resume</a>
-  </li>
-</ul>
-</div>
-<br>
-<!-- Social links row -->
-<h3 align="center" style="margin-bottom:8px; color:#494962;">Connect with me:</h3> <hr>
-<div style="display:flex;justify-content:center;gap:12px;margin-bottom:20px;flex-wrap:wrap;">
-  <a href="https://twitter.com/chakradhar__k" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="36" style="filter:drop-shadow(0 2px 4px #aaf2e7cc);" />
-  </a>
-  <a href="https://linkedin.com/in/chakradhar-kolipaka-70367328b" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" style="filter:drop-shadow(0 2px 4px #a9c1fccc);" />
-  </a>
-  <a href="https://www.codechef.com/users/chakradhar321" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" width="36" style="background:#ffff;border-radius:12px;padding:2px 4px;box-shadow:0 2px 2px #f2deb2ee;" />
-  </a>
-  <a href="https://www.hackerrank.com/chakradhar32123" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" width="36" style="filter:drop-shadow(0 2px 4px #c9fceb77);" />
-  </a>
-  <a href="https://codeforces.com/profile/chakradhar32123" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces" width="36" style="background:#fffd;border-radius:12px;padding:3px 4px;box-shadow:0 2px 2px #c8faf8cc;" />
-  </a>
-  <a href="https://www.leetcode.com/chakradhar_kolipaka" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="36" style="filter:drop-shadow(0 2px 4px #ecebe1dd);" />
-  </a>
-  <a href="https://discord.gg/chakradharkolipaka_08395" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="36" style="filter:drop-shadow(0 2px 4px #c7bfffcc);" />
-  </a>
-</div>
-<br>
-<!-- Badges row with effects and box shadows on hover -->
-<h2 style="color:#4d4a73;margin-bottom:10px;">NFTs and Badges <span style="font-size:0.76em;">(Click to check CREDENTIALS)</span></h2>
-<div style="
-  display: flex; 
-  align-items: center; 
-  gap: 18px;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin: 16px 0 24px 0;
-">
-  <a href="https://www.credly.com/badges/5e6ac8f4-2d07-47fc-b576-07104beb3259/public_url" target="_blank" style="transition:0.2s;box-shadow:0 3px 14px #e1d9fc33;border-radius:18px;">
-    <img src="https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png"
-     width="90" alt="ISC2 Candidate Badge"
-     style="border-radius:18px;border:3px solid #d8e8ff;box-shadow:0 3px 12px #65b6ed22;transition:0.21s;">
-  </a>
-  <a href="https://www.credly.com/badges/84573511-8090-4f55-bf11-ba7eea1b4979/public_url" target="_blank" style="transition:0.2s;box-shadow:0 3px 14px #e1d9fc33;border-radius:18px;">
-    <img src="https://images.credly.com/size/220x220/images/650ebdbe-d526-4b47-b186-c1ab516b5a7c/image.png"
-     width="90" alt="MongoDB Associate Developer Badge"
-     style="border-radius:18px;border:3px solid #f3f0ff;box-shadow:0 3px 12px #f3a4e122;transition:0.21s;">
-  </a>
-  <a href="https://profiles.cyfrin.io/u/chakradharkolipaka/achievements/blockchain-basics" target="_blank" style="transition:0.2s;box-shadow:0 3px 18px #f8cefd44;border-radius:18px;">
-    <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png"
-     width="90" alt="Cyfrin Blockchain Basics Badge"
-     style="border-radius:18px;border:3px solid #fbe7fd;box-shadow:0 3px 10px #cce8c844;transition:0.21s;">
-  </a>
-  <a href="https://profiles.cyfrin.io/u/chakradharkolipaka/achievements/solidity" target="_blank" style="transition:0.2s;box-shadow:0 3px 18px #f0f8fd44;border-radius:18px;">
-    <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/solidity-101.png"
-     width="90" alt="Cyfrin Solidity Badge"
-     style="border-radius:18px;border:3px solid #e9fcff;box-shadow:0 3px 12px #c2f3e522;transition:0.24s;">
-  </a>
-  <a href="https://sepolia.etherscan.io/token/0x76b50696b8effca6ee6da7f6471110f334536321?a=3771" target="_blank" style="transition:0.2s;box-shadow:0 3px 18px #f4b3fc49;border-radius:18px;">
-    <img src="https://ipfs.io/ipfs/QmZdPncUtsq71DxVtebbGdCUS28SvrCWoeVigCAdo1CZ5b"
-     width="90" alt="Foundry Course NFT"
-     style="border-radius:18px;border:3px solid #f7e9ff;box-shadow:0 3px 12px #cce8c844;transition:0.24s;">
-  </a>
-</div>
-<br>
+[![Gmail](https://img.shields.io/badge/-chakradharkolipaka%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chakradharkolipaka@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakradhar-kolipaka-70367328b/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chakradharkolipaka)
+[![Resume](https://img.shields.io/badge/-Resume-38BDF8?style=flat-square&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1IbQMMpaKOMdAhc9v4MNsA2tKYX3vogX6/view?usp=drive_link)
+[![Twitter](https://img.shields.io/badge/-@chakradhar__k-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/chakradhar__k)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/chakradhar_kolipaka)
+[![CodeForces](https://img.shields.io/badge/-CodeForces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/chakradhar32123)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chakradhar32123)
 
-<!-- Languages and tools section, with more spacing and a neat box -->
-<h3 align="center" style="margin-top:32px; color:#434390;">Languages and Tools</h3> <hr>
-<div style="background:#fff5fc;font-size:1.09em;padding:10px 18px 14px 18px;border-radius:13px;display:inline-block;box-shadow:0 2px 11px #4dd3de11;margin-bottom:16px;">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin:9px;"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin:9px;"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin:9px;"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin:9px;"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin:9px;"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin:9px;"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin:9px;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin:9px;"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin:9px;"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin:9px;"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin:9px;"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin:9px;"/></a>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Chakradharkolipaka&style=flat-square&color=38BDF8)
+
 </div>
 
-<!--
-**Chakradharkolipaka/Chakradharkolipaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
+
+### 👤 About
+
+Blockchain Developer with 3 internships and team-lead experience, specializing in Solidity smart contracts and multichain dApp deployment across **11 networks** spanning EVM, Move, ICP, and UTXO architectures. I build and ship Web3 systems with RBAC, oracle integration, AI-powered tooling, and decentralized storage.
+
+`B.Tech CSE (Cyber Security)` · Geethanjali College of Engineering and Technology · CGPA 8.7/10 · 2023–2027
+
+🔭 Currently building a **[DeFi StableCoin protocol](https://github.com/Chakradharkolipaka/Defi_StableCoin)**
+🌱 Currently learning DeFi mechanics and cross-app web3 connectivity
+📍 Hyderabad, India
+
+---
+
+### 💼 Experience
+
+| Role | Org | Duration |
+|---|---|---|
+| Blockchain & Frontend Developer | Ignitus Networks | Feb 2026 – Apr 2026 |
+| Blockchain Developer | BlockseBlock | Jun 2025 – Jul 2025 |
+| Blockchain Developer *(Team Lead)* | IDS | Apr 2025 – May 2025 |
+
+Highlights: deployed a fan-funding dApp across **10 chains** in a single release · built Rust-based ICP canisters for a decentralized health-records system · architected a cross-chain green-financing contract system leading a 4-member team, with RBAC and 15+ Hardhat/Ganache tests on Sepolia.
+
+---
+
+### 🚀 Featured Projects
+
+- **[AuditPro](https://github.com/Chakradharkolipaka/AuditPro)** — AI-powered smart contract auditor; React + Vercel serverless, async analysis pipeline (Upstash Redis + BullMQ), local LLMs via Ollama/ChromaDB for private RAG-based code review.
+- **[RWA Tokenizer](https://github.com/Chakradharkolipaka/TokenizerAlgo)** — Algorand ASA-based NFT minting and transfer logic, full-stack interface deployed on Vercel for live asset creation and token management.
+- **Raffle — Decentralized Lottery** — Provably fair lottery contract using Chainlink VRF v2.5 on Sepolia, built with Foundry and a full unit/integration/VRF-callback test suite.
+
+---
+
+### 🛠️ Skills
+
+**Smart Contracts**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
+![ERC721](https://img.shields.io/badge/ERC--721-black?style=flat-square)
+![ERC20](https://img.shields.io/badge/ERC--20-black?style=flat-square)
+
+**Tooling & Testing**
+![Foundry](https://img.shields.io/badge/Foundry-black?style=flat-square)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+![Remix](https://img.shields.io/badge/Remix-1F1F1F?style=flat-square&logo=ethereum&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
+
+**Web3 & Blockchain**
+![Ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
+![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![ICP](https://img.shields.io/badge/Internet_Computer-3B00B9?style=flat-square&logo=internetcomputer&logoColor=white)
+![Algorand](https://img.shields.io/badge/Algorand-000000?style=flat-square&logo=algorand&logoColor=white)
+
+**Frontend & Backend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white)
+
+**Databases & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI**
+![RAG](https://img.shields.io/badge/RAG-black?style=flat-square)
+![LLM_APIs](https://img.shields.io/badge/LLM_API_Integration-black?style=flat-square)
+
+---
+
+### 📜 Certifications
+
+- Hedera Hashgraph Developer — *The Hashgraph Association*, Nov 2024
+- MongoDB Associate Developer + Node.js Developer Path — *Smartbridge*, May 2025
+- Blockchain Bootcamp — *IDS*, Nov 2024
+- [ISC2 Candidate](https://www.credly.com/badges/5e6ac8f4-2d07-47fc-b576-07104beb3259/public_url) · [Cyfrin Blockchain Basics & Solidity](https://profiles.cyfrin.io/u/chakradharkolipaka)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chakradharkolipaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chakradharkolipaka&layout=compact&theme=tokyonight&hide_border=true" width="35%" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Chakradharkolipaka&theme=tokyonight&hide_border=true" width="60%" alt="GitHub streak" />
+
+</div>
+
+<div align="center">
+
+*3 Internships · 11 Blockchain Networks · 10-Chain Single dApp Deployment*
+
+</div>
