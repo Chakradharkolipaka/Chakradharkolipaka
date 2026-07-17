@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-chakradharkolipaka%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chakradharkolipaka@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakradhar-kolipaka-70367328b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chakradharkolipaka)
-[![Resume](https://img.shields.io/badge/-Resume-38BDF8?style=flat-square&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1IbQMMpaKOMdAhc9v4MNsA2tKYX3vogX6/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/-Resume-38BDF8?style=flat-square&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1oHpSCzy6tTLDDSFwx1C_eUwry_8wB6Vs/view?usp=drive_link)
 [![Twitter](https://img.shields.io/badge/-@chakradhar__k-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/chakradhar__k)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/chakradhar_kolipaka)
 [![CodeForces](https://img.shields.io/badge/-CodeForces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/chakradhar32123)
