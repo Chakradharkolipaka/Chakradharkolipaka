@@ -47,7 +47,7 @@ Highlights: deployed a fan-funding dApp across **10 chains** in a single release
 
 - **[AuditPro](https://github.com/Chakradharkolipaka/AuditPro)** — AI-powered smart contract auditor; React + Vercel serverless, async analysis pipeline (Upstash Redis + BullMQ), local LLMs via Ollama/ChromaDB for private RAG-based code review.
 - **[RWA Tokenizer](https://github.com/Chakradharkolipaka/TokenizerAlgo)** — Algorand ASA-based NFT minting and transfer logic, full-stack interface deployed on Vercel for live asset creation and token management.
-- **Raffle — Decentralized Lottery** — Provably fair lottery contract using Chainlink VRF v2.5 on Sepolia, built with Foundry and a full unit/integration/VRF-callback test suite.
+- **[Raffle](https://github.com/Chakradharkolipaka/Raffle) — Decentralized Lottery** — Provably fair lottery contract using Chainlink VRF v2.5 on Sepolia, built with Foundry and a full unit/integration/VRF-callback test suite.
 
 ---
 
